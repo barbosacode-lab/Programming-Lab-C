@@ -1,2 +1,4 @@
 # Programming-Lab-C
-This repo is used for exercising and applying data structure concepts using the C programming language.
+This repo is used for learn data structure concepts and the fundamentals of C programming language.
+
+*Happy coding for us!* 😎

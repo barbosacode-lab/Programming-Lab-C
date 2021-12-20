@@ -4,3 +4,6 @@
 # C
 *.out
 *.o
+
+# Dir
+*.vscode
